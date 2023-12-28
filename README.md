@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Project URL(LIVE)--  https://658c70eeb5ce801ccbee52f7--glistening-cranachan-f72578.netlify.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
